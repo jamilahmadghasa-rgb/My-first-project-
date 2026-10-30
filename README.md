@@ -1,4 +1,4 @@
-# My Computer Notes
+# programming fundamental 
 
 Name: Jamil Ahmad
 School: Swat University of Technology
