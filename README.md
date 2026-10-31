@@ -1,7 +1,7 @@
 # programming fundamental 
 
 Name: Jamil Ahmad
-School: Swat University of Technology
+ School: Swat University of Technology
 
 Teacher Name: Sir Rashid Zada
 Subject: Computer
